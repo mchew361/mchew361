@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchew361
 - 👀 I’m interested in software development
-- 🌱 I’m currently a computer science student attending UIC
+- 🌱 I’m currently a Statistics + Computer Science Major @ UIUC
 - 📫 How to reach me:
   email: m.chew361@gmail.com
 
